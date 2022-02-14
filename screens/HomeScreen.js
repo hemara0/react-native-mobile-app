@@ -37,7 +37,7 @@ export default AppHeader
 
 const styles = StyleSheet.create({
 	header: {
-		height: 100,
+		height: 150,
 		elevation: 8,
 		justifyContent: 'space-between',
 		alignItems: 'center',
